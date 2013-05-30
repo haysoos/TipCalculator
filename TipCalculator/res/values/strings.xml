@@ -3,6 +3,9 @@
 
     <string name="app_name">Tip Calculator</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="button_1_text">10%</string>
+    <string name="button_2_text">15%</string>
+    <string name="button_3_text">20%</string>
+    <string name="tipTextViewDefault">Tip is: $</string>
 
 </resources>
